@@ -2,7 +2,7 @@ JOSH MOORE — INDEPENDENT WINDOWS SOFTWARE RESEARCH
 Research portfolio | Published October 16, 2026
 
 STATUS
-Self-published research notes prepared with AI assistance. Author: Josh Moore. This publication does not claim a CVE credit, accepted vulnerability disclosure, bug-bounty standing, or named open-source security-maintainer role. Identity is not independently verified by this document.
+Self-published research notes prepared with AI assistance. Author: Josh Moore. Identity is not independently verified by this document.
 
 SCOPE
 Selected work involving Windows software analysis, reconstructed driver-code review, crash investigation, and evidence-collection tooling. These summaries document the available investigation record and do not establish permission to assess any third-party system.
